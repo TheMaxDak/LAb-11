@@ -1,6 +1,8 @@
 ## LAb-11
 # Вариант 10
+
 Задание 1
+
 #laboratornay rabota N 11
 #Vipolnil kursant 4 vzvoda RTF
 #Ivin M.S,
@@ -8,16 +10,20 @@ name, info = input(), input()
 print(name, info, sep='\n')
 
 Задание 2
+
 print('I like Python')
 
 Задание 3
+
 x, a1, a2, a3 = input(), input(), input(), input()
 print(a1,a2, a3, sep=x)
 
 Задние 4
+
 print('Привет,', a, '!')
 
 Задание 1
+
 import math
 a=int(input())
 n1=a//100000
